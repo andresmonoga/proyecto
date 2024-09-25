@@ -58,6 +58,7 @@ header{
 
 #hero .information-container #foto img{
     border-radius: 100%;
+    border: 5px solid #fff;
 } 
 
 #hero .information-container .information {
